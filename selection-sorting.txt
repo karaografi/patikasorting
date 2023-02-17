@@ -1,4 +1,3 @@
-# patikasorting
 Aşamalar
 1.aşama [2,27,16,22,18,6]
 2.aşama [2,6,16,22,18,27]
